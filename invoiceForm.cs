@@ -23,12 +23,12 @@ namespace Fatora
             txtDate.Text = DateTime.Now.ToString("MM/dd/yyyy");
 
             Dictionary<String, int> itemsData = new Dictionary<string, int>();
-            itemsData.Add("لاب توب", 1000);
-            itemsData.Add("شاشة", 2000);
-            itemsData.Add("ماوس", 3000);
-            itemsData.Add("كيبورد", 4000);
-            itemsData.Add("بادا", 5000);
-            itemsData.Add("سماعات", 6000);
+            itemsData.Add("ماوس", 1000);
+            itemsData.Add("كيبورد", 2000);
+            itemsData.Add("شاشة", 3000);
+            itemsData.Add("سماعات", 4000);
+            itemsData.Add("موبيل", 5000);
+            itemsData.Add("لاب توب", 6000);
 
             cbxItems.DataSource = new BindingSource(itemsData, null);
             cbxItems.DisplayMember = "key";
