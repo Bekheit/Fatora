@@ -1,0 +1,16 @@
+F:\Prog\Projects\Fatora\bin\Debug\netcoreapp3.1\Fatora.exe
+F:\Prog\Projects\Fatora\bin\Debug\netcoreapp3.1\Fatora.deps.json
+F:\Prog\Projects\Fatora\bin\Debug\netcoreapp3.1\Fatora.runtimeconfig.json
+F:\Prog\Projects\Fatora\bin\Debug\netcoreapp3.1\Fatora.runtimeconfig.dev.json
+F:\Prog\Projects\Fatora\bin\Debug\netcoreapp3.1\Fatora.dll
+F:\Prog\Projects\Fatora\bin\Debug\netcoreapp3.1\Fatora.pdb
+F:\Prog\Projects\Fatora\obj\Debug\netcoreapp3.1\Fatora.csproj.AssemblyReference.cache
+F:\Prog\Projects\Fatora\obj\Debug\netcoreapp3.1\Fatora.invoiceForm.resources
+F:\Prog\Projects\Fatora\obj\Debug\netcoreapp3.1\Fatora.csproj.GenerateResource.cache
+F:\Prog\Projects\Fatora\obj\Debug\netcoreapp3.1\Fatora.AssemblyInfoInputs.cache
+F:\Prog\Projects\Fatora\obj\Debug\netcoreapp3.1\Fatora.AssemblyInfo.cs
+F:\Prog\Projects\Fatora\obj\Debug\netcoreapp3.1\Fatora.csproj.CoreCompileInputs.cache
+F:\Prog\Projects\Fatora\obj\Debug\netcoreapp3.1\Fatora.dll
+F:\Prog\Projects\Fatora\obj\Debug\netcoreapp3.1\Fatora.pdb
+F:\Prog\Projects\Fatora\obj\Debug\netcoreapp3.1\Fatora.genruntimeconfig.cache
+F:\Prog\Projects\Fatora\obj\Debug\netcoreapp3.1\Fatora.Properties.Resources.resources

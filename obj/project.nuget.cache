@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AJFBWBmfRHwAhxdhVfuE+wiphn2FAegVEXRK1v56MqCt3z9+chNS18kNiRW7ei1SfpgjWgJ0dhvO1qlmQgxcQA==",
+  "success": true,
+  "projectFilePath": "F:\\Prog\\Projects\\Fatora\\Fatora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.11\\microsoft.netcore.app.host.win-x86.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
